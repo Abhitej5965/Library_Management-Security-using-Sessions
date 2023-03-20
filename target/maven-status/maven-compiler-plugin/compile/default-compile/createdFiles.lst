@@ -1,0 +1,7 @@
+com/wavemaker/service/BooksService.class
+com/wavemaker/Main.class
+com/wavemaker/controller/AuthorController.class
+com/wavemaker/controller/BookController.class
+com/wavemaker/service/AuthorService.class
+com/wavemaker/model/Books.class
+com/wavemaker/model/AuthorDetails.class
